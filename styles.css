@@ -643,3 +643,16 @@ textarea#peopleInput:focus {
   color: #333;
   transition: all 0.2s ease;
 }
+
+kbd{
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+  color: #333;
+  display: inline-block;
+  font-size: 0.85em;
+  line-height: 1;
+  padding: 2px 4px;
+  white-space: nowrap;
+}
